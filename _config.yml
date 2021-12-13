@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "/assets/images/Tulika.png"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD-Bioinformatics"
+  location         : "India"
   email            :
   links:
     - label: "Email"
