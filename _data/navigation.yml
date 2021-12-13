@@ -5,7 +5,7 @@ main:
    #- title: "Posters"
     # url: https://tulika_academic_website/pages/posters.html
    - title: "Sample Posts"
-     url: /year-archive/
+     url: "/year-archive/"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
