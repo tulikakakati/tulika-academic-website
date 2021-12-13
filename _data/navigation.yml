@@ -4,8 +4,8 @@ main:
     url: "https://tulika_academic_website/pages/publications.html"
    #- title: "Posters"
     # url: https://tulika_academic_website/pages/posters.html
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Sample Posts"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
